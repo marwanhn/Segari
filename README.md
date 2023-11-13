@@ -1,7 +1,7 @@
 # Segari
 Submission Dicoding Belajar Android Jetpack Compose
-*Note: Thank you for Segari for give me permission to get source for this app
-<p>Design</p>
+<p>Thank you to Segari for giving me permission to access the assets and content for this app</p>
+<h1>Design</h1>
 
 <p align="center"><img src="https://github.com/marwanhn/Segari/assets/66239132/ff158790-49f4-4f97-9c06-762495693e9f"
      alt="Preview App"
