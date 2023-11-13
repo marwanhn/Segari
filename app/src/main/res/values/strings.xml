@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Segari</string>
+
+    <string name="price">Rp %,d</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="menu_about">About</string>
+    <string name="back">Kembali</string>
+    <string name="add_to_cart">Tambah ke Keranjang : Rp%,d</string>
+    <string name="share_message">Halo, Saya sudah menentukan belanja kebutuhan saya di Segari sebesar Rp %,d . Tolong catat ya!</string>
+    <string name="total_order">Total belanja : Rp %,d</string>
+    <string name="segari_cart">Catatan Belanja</string>
+    <string name="search_product">Cari beragam kebutuhan harian\n</string>
+    <string name="produk_pilihan">Produk Pilihan</string>
+    <string name="about_photo">About Photo\n</string>
+    <string name="nama">Marwan Hasbun Nur</string>
+    <string name="email">hasbunurmarwan10@gmail.com</string>
+    <string name="gmail">Gmail</string>
+    <string name="linkedin">marwan hasbun nur</string>
+</resources>
