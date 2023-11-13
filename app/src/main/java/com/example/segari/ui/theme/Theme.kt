@@ -3,7 +3,6 @@ package com.example.segari.ui.theme
 import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
-import androidx.compose.material3.ButtonDefaults
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.darkColorScheme
 import androidx.compose.material3.dynamicDarkColorScheme
@@ -28,7 +27,6 @@ private val DarkColorScheme = darkColorScheme(
     onSurfaceVariant = Color.Gray,
 )
 
-val MyButtonColor = Green
 
 private val LightColorScheme = lightColorScheme(
     primary = Green,

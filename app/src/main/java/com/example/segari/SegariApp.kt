@@ -37,7 +37,6 @@ import com.example.segari.ui.screen.home.HomeScreen
 import com.example.segari.ui.screen.profile.AboutScreen
 import com.example.segari.ui.theme.SegariTheme
 
-@OptIn(ExperimentalMaterial3Api::class)
 @SuppressLint("UnusedMaterial3ScaffoldPaddingParameter")
 @Composable
 fun SegariApp(
