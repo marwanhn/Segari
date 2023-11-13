@@ -36,6 +36,6 @@ Submission Dicoding Belajar Android Jetpack Compose
      style="float: left; margin-right: 10px;"
      width="200"
      height="400"/></p>
-<p align="center"><i><b>Figure 4</b> About Screen </i></p>
+<p align="center"><i><b>Figure 5</b> About Screen </i></p>
 
 
