@@ -7,7 +7,7 @@ Submission Dicoding Belajar Android Jetpack Compose
      alt="Preview App"
      style="float: left; margin-right: 10px;"
      width="200"
-     height="400"/></p>p>
+     height="400"/></p>
 <p align="center"><i><b>Figure 1</b> Preview App Segari with Compose </i></p>
 
 <p align="center"><img src="https://github.com/marwanhn/Segari/assets/66239132/0c95ab72-8c3d-4a17-82b6-3b7da5915b60"
